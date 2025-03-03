@@ -1,5 +1,4 @@
 <h1>
-    <img align="center" alt="GiVasques-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
     <span>Oii, aqui é a Gi!</span>
 </h1>
 
