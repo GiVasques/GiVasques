@@ -3,7 +3,7 @@
     <span>Oii, aqui é a Gi!</span>
 </h1>
 
-<p>Bem-vinda(o) ao meu perfil !</p>
+<p>Bem-vinda(o) ao meu perfil!</p>
 <p></p>Atualmente estou cursando Sistemas de informação na FIAP!</p>
 
 
